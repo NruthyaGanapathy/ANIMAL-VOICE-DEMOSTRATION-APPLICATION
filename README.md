@@ -1,6 +1,5 @@
 # ANIMAL-VOICE-DEMOSTRATION-APPLICATION
 MOBILE DEVELOPMENT APLLICATION USING ANDROID STUDIO
-
              Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources.
              Android apps are primarily built using Java or Kotlin. 
              There is more than one programming language and technology stack for building mobile apps – the key is picking a technology stack that is best suited for your mobile app.
